@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bluefoxxx1's Gaming-Welt</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1a1a1d;
+            color: #c5c6c7;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #0b0c10;
+        }
+        header img {
+            max-width: 300px;
+            height: auto;
+        }
+        h1 {
+            color: #66fcf1;
+        }
+        .content {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        .section h2 {
+            color: #45a29e;
+            border-bottom: 2px solid #66fcf1;
+            padding-bottom: 10px;
+        }
+        .section p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <img src="Logo With BG.png" alt="bluefoxxx1 Logo">
+    <h1>👾 Willkommen in meiner Gaming-Welt! 👾</h1>
+</header>
+
+<div class="content">
+    <div class="section">
+        <p>Hey Leute! Ich bin bluefoxxx, 28 Jahre alt und seit über zwei Jahrzehnten ein leidenschaftlicher Gamer. Meine Reise begann im Alter von 4 Jahren mit der legendären PlayStation 1. Seitdem habe ich jede PlayStation-Generation durchlebt, aber mittlerweile hat mich der PC als meine Hauptplattform erobert. 🎮</p>
+        <h2>🧍‍♂ Wer bin ich?</h2>
+        <p>Gamer seit Tag 1: Angefangen auf der PS1, bis hin zum aktuellen Gaming-PC – Gaming ist meine Leidenschaft und wird es immer bleiben.</p>
+        <p>Liebender Katzenpapa: Meine zwei britisch-kurzhaarigen Kater, Simba und Snow, sind meine ständigen Begleiter und werden sicherlich auch mal im Stream zu sehen sein. 🐾</p>
+        <p>Nachtaktiver Streamer: Aufgrund meines Jobs streame ich meistens spät in der Nacht. Perfekt für alle Nachteulen und diejenigen, die gerne im Dunkeln zuschauen!</p>
+        <p>Ruhige Seele: Ich bin der entspannte Typ, der meist cool bleibt, egal wie intensiv das Spiel wird. Emotionale Achterbahnfahrten oder Wutausbrüche sind nicht mein Ding – ich gehe die Dinge gelassen an. Meine Abenteuerlust bringt mich dazu, gerne neue Herausforderungen zu suchen, auch wenn es manchmal etwas chaotisch wird. Aber hey, dieses charmante Chaos gehört einfach zu mir und macht die Streams erst richtig spannend.</p>
+        <p>Gaming-Philosophie: Für mich ist Gaming mehr als nur Unterhaltung – es ist eine Art, Geschichten zu erleben und sich mit Menschen zu verbinden. Jeder Stream soll ein Erlebnis sein, das wir gemeinsam genießen.</p>
+    </div>
+
+    <div class="section">
+        <h2>Hobbys und Interessen</h2>
+        <p>Sport: Ich bin ein Fan von Kraftsport und finde es großartig, mich körperlich zu betätigen und neue Fitnessziele zu erreichen.</p>
+        <p>Musik: Meine musikalische Leidenschaft gehört dem Hip-Hop, House und Electro. Die Beats und Texte inspirieren mich und bringen Energie in meinen Alltag.</p>
+        <p>Kryptowährungen: Ich beschäftige mich auch mit Kryptowährungen und finde die Entwicklungen und Möglichkeiten in diesem Bereich faszinierend.</p>
+        <p>Politik: Ich verfolge gerne politische Themen und bin interessiert an aktuellen Entwicklungen und deren Auswirkungen auf die Gesellschaft.</p>
+        <p>Wunschliste: Manchmal habe ich spezielle Wunschspiele oder Projekte, die ich unbedingt ausprobieren möchte. Ich halte euch darüber auf dem Laufenden und freue mich immer über eure Vorschläge!</p>
+    </div>
+
+    <div class="section">
+        <h2>Gaming-Rituale</h2>
+        <p>„Wildkraut Sniff Energy“: Um mich für das Gaming aufzuwärmen, ziehe ich immer ein wenig Wildkraut Sniff Energy durch die Nase. Keine Sorge, das ist zu 100% legal und keine Droge – es ist einfach ein spezieller Energizer, der mir hilft, fokussiert und bereit für die Spiele zu sein.</p>
+    </div>
+
+    <div class="section">
+        <h2>📅 Stream-Zeitplan</h2>
+        <p>Meine Streams laufen hauptsächlich spät in der Nacht.</p>
+    </div>
+</div>
+
+</body>
+</html>
